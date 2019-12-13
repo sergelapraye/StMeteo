@@ -6,7 +6,7 @@
             <a href="temperature.php">Température en temps réel</a>
             <a href="historique.php">Historique des températures</a>
             <a href="verifadmin.php">Espace administrateur</a>
-            <a href="parametre.php">Paramètre</a>
+            <a href="parametre.php">Paramètres</a>
         </div>
 <?php
     }
